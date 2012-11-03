@@ -7,9 +7,9 @@ dnl without editing.
 
 dnl If your extension references something external, use with:
 
-dnl PHP_ARG_WITH(hachi, for hachi support,
-dnl Make sure that the comment is aligned:
-dnl [  --with-hachi             Include hachi support])
+PHP_ARG_WITH(hachi, for hachi support,
+Make sure that the comment is aligned:
+[  --with-hachi             Include hachi support])
 
 dnl Otherwise use enable:
 
